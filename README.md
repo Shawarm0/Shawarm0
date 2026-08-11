@@ -52,7 +52,7 @@ I'm **Shawarm0** — a developer who bounces between low-level systems work and 
     <img src="https://raw.githubusercontent.com/Shawarm0/Shawarm0/main/main/assets/physics-engine.gif" width="100%" alt="physics-engine"/>
   </a>
   <h3><a href="https://github.com/Shawarm0/physics-engine">Physics Engine</a></h3>
-  <p>Real-time rigid body simulation with collision detection, written from scratch.</p>
+  <p>Real-time rigid body simulation with collision detection, written from scratch. Currently being rebuilt in C++/OpenGL.</p>
   <p><code>C</code> <code>RayLib</code></p>
 </td>
 <td width="50%" align="center">
