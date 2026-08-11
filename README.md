@@ -81,10 +81,10 @@ I'm **Shawarm0** — a developer who bounces between low-level systems work and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shawarm0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawarm0&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="165" alt="top languages"/>
-
-<br/><br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shawarm0/github-stats/generated/overview.svg" width="49%" alt="stats"/>
+  <img src="https://raw.githubusercontent.com/Shawarm0/github-stats/generated/languages.svg" width="49%" alt="languages"/>
+</div>
 
 <img src="https://streak-stats.demolab.com?user=Shawarm0&theme=tokyonight&hide_border=true&background=00000000" height="165" alt="streak"/>
 
