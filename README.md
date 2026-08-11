@@ -70,8 +70,8 @@ I'm **Shawarm0** — a developer who bounces between low-level systems work and 
     <img src="https://raw.githubusercontent.com/Shawarm0/Shawarm0/main/main/assets/rota-app-ss.png" width="100%" alt="rota-app"/>
   </a>
   <h3><a href="https://github.com/Shawarm0/rota-app">Rota App</a></h3>
-  <p>One line on what it does.</p>
-  <p><code>TypeScript</code> <code>Railway</code> <code>PostGreSQL</code></p>
+  <p>Full stack rota management PWA deployed on Railway.</p>
+  <p><code>TypeScript</code> <code>PostGreSQL</code> <code>React</code> <code>Node.js</code></p>
 </td>
 <td width="50%" align="center">
   <a href="https://github.com/Shawarm0/CSC2033-Team-Project">
