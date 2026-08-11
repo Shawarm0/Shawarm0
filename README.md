@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Shawarm0&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Systems%20%7C%20Graphics%20%7C%20Full-stack&descSize=16&descAlignY=52" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Shawarmz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Systems%20%7C%20Graphics%20%7C%20Full-stack&descSize=16&descAlignY=52" width="100%" alt="banner"/>
 
 <a href="https://github.com/Shawarm0">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+things+in+C%2FC%2B%2B+and+TypeScript;Graphics%2C+rendering+and+low-level+tinkering;Mobile+apps+in+Kotlin+%26+Swift;Always+shipping+something" alt="Typing SVG" />
