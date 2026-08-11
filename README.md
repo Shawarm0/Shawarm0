@@ -68,7 +68,7 @@ I'm **Shawarm0** — a developer who bounces between low-level systems work and 
 <tr>
 <td width="50%" align="center">
   <a href="https://github.com/Shawarm0/rota-app">
-    <img src="https://raw.githubusercontent.com/Shawarm0/Shawarm0/main/assets/rota-app.png" width="100%" alt="rota-app"/>
+    <img src="https://raw.githubusercontent.com/Shawarm0/Shawarm0/main/main/assets/rota-app-ss.png" width="100%" alt="rota-app"/>
   </a>
   <h3><a href="https://github.com/Shawarm0/rota-app">Rota App</a></h3>
   <p>One line on what it does.</p>
