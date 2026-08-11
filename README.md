@@ -46,24 +46,44 @@ I'm **Shawarm0** — a developer who bounces between low-level systems work and 
 ## 📌 Featured projects
 
 <!-- ✏️ Replace REPO_NAME with real repo names. Delete a card if you only have 2 or 3. -->
-
-<div align="center">
-
-<a href="https://github.com/Shawarm0/kalanikethan-app-main">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarm0&repo=kalanikethan-app-main&theme=tokyonight&hide_border=true&bg_color=00000000" height="120" alt="kalanikethan-app-main"/>
-</a>
-<a href="https://github.com/Shawarm0/CSC2033-Team-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarm0&repo=CSC2033-Team-Project&theme=tokyonight&hide_border=true&bg_color=00000000" height="120" alt="CSC2033-Team-Project"/>
-</a>
-<a href="https://github.com/Shawarm0/physics-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarm0&repo=physics-engine&theme=tokyonight&hide_border=true&bg_color=00000000" height="120" alt="physics-engine"/>
-</a>
-<a href="https://github.com/Shawarm0/rota-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarm0&repo=rota-app&theme=tokyonight&hide_border=true&bg_color=00000000" height="120" alt="rota-app"/>
-</a>
-
-</div>
-
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/Shawarm0/physics-engine">
+    <img src="https://raw.githubusercontent.com/Shawarm0/Shawarm0/main/main/assets/physics-engine.gif" width="100%" alt="physics-engine"/>
+  </a>
+  <h3><a href="https://github.com/Shawarm0/physics-engine">Physics Engine</a></h3>
+  <p>Real-time rigid body simulation with collision detection, written from scratch.</p>
+  <p><code>C</code> <code>RayLib</code></p>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/Shawarm0/kalanikethan-app-main">
+    <img src="https://raw.githubusercontent.com/Shawarm0/Shawarm0/main/assets/kalanikethan.png" width="100%" alt="kalanikethan-app"/>
+  </a>
+  <h3><a href="https://github.com/Shawarm0/kalanikethan-app-main">Kalanikethan App</a></h3>
+  <p>Android application developed to track student attendance for a South Indian dance company</p>
+  <p><code>Kotlin</code> <code>JetPack Compose</code> <code>Supabase</code> <code>PostGreSQL</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/Shawarm0/rota-app">
+    <img src="https://raw.githubusercontent.com/Shawarm0/Shawarm0/main/assets/rota-app.png" width="100%" alt="rota-app"/>
+  </a>
+  <h3><a href="https://github.com/Shawarm0/rota-app">Rota App</a></h3>
+  <p>One line on what it does.</p>
+  <p><code>TypeScript</code> <code>Supabase</code></p>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/Shawarm0/CSC2033-Team-Project">
+    <img src="https://raw.githubusercontent.com/Shawarm0/Shawarm0/main/assets/csc2033.png" width="100%" alt="CSC2033-Team-Project"/>
+  </a>
+  <h3><a href="https://github.com/Shawarm0/CSC2033-Team-Project">CSC2033 Team Project</a></h3>
+  <p>One line on what it does and your role on the team.</p>
+  <p><code>Python</code> <code>Flask</code></p>
+</td>
+</tr>
+</table>
 <!--
   ALTERNATIVE (more readable, never breaks, better for search):
   a plain table. Uncomment this and delete the pin cards above if you prefer.
