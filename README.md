@@ -50,16 +50,16 @@ I'm **Shawarm0** — a developer who bounces between low-level systems work and 
 <div align="center">
 
 <a href="https://github.com/Shawarm0/kalanikethan-app-main">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarm0&repo=kalanikethan-app-main&theme=tokyonight&hide_border=true&bg_color=00000000" height="120" alt="project 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarm0&repo=kalanikethan-app-main&theme=tokyonight&hide_border=true&bg_color=00000000" height="120" alt="kalanikethan-app-main"/>
 </a>
 <a href="https://github.com/Shawarm0/CSC2033-Team-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarm0&repo=CSC2033-Team-Project&theme=tokyonight&hide_border=true&bg_color=00000000" height="120" alt="project 2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarm0&repo=CSC2033-Team-Project&theme=tokyonight&hide_border=true&bg_color=00000000" height="120" alt="CSC2033-Team-Project"/>
 </a>
-<a href="https://github.com/Shawarm0/https://github.com/Shawarm0/physics-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarm0&repo=physics-engine&theme=tokyonight&hide_border=true&bg_color=00000000" height="120" alt="project 3"/>
+<a href="https://github.com/Shawarm0/physics-engine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarm0&repo=physics-engine&theme=tokyonight&hide_border=true&bg_color=00000000" height="120" alt="physics-engine"/>
 </a>
 <a href="https://github.com/Shawarm0/rota-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarm0&repo=rota-app&theme=tokyonight&hide_border=true&bg_color=00000000" height="120" alt="project 4"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarm0&repo=rota-app&theme=tokyonight&hide_border=true&bg_color=00000000" height="120" alt="rota-app"/>
 </a>
 
 </div>
