@@ -31,7 +31,7 @@ I'm **Shawarm0** — a developer who bounces between low-level systems work and 
 
 <div align="center">
 
-| | |
+| Area | Tools |
 |:--|:--|
 | **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-%23F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white) |
 | **Graphics & Games** | ![RayLib](https://img.shields.io/badge/RAYLIB-%23FFFFFF.svg?style=for-the-badge&logo=raylib&logoColor=black) ![OpenGL](https://img.shields.io/badge/opengl-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white) |
@@ -92,20 +92,8 @@ I'm **Shawarm0** — a developer who bounces between low-level systems work and 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shawarm0&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true&custom_title=Contribution%20Graph" width="95%" alt="activity graph"/>
 
-</div>
 
-<details>
-<summary><b>🏆 More stats</b></summary>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shawarm0&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
-
-</div>
-
-</details>
-
----
 
 ## 🐍 Contribution snake
 
@@ -121,15 +109,9 @@ I'm **Shawarm0** — a developer who bounces between low-level systems work and 
 
 </div>
 
----
 
-## 📈 Recent activity
 
-<!--
-  ✏️ Go to https://repography.com, sign in with GitHub, pick a repo,
-  choose "Recent activity", and paste the generated <img> tag it gives you here.
-  The URL is unique per repo — I can't generate it for you.
--->
+
 
 <div align="center">
 
@@ -137,7 +119,7 @@ I'm **Shawarm0** — a developer who bounces between low-level systems work and 
 
 </div>
 
----
+
 
 ## 🤝 Connect
 
