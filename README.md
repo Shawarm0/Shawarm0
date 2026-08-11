@@ -71,15 +71,15 @@ I'm **Shawarm0** — a developer who bounces between low-level systems work and 
   </a>
   <h3><a href="https://github.com/Shawarm0/rota-app">Rota App</a></h3>
   <p>One line on what it does.</p>
-  <p><code>TypeScript</code> <code>Supabase</code></p>
+  <p><code>TypeScript</code> <code>Railway</code> <code>PostGreSQL</code></p>
 </td>
 <td width="50%" align="center">
   <a href="https://github.com/Shawarm0/CSC2033-Team-Project">
-    <img src="https://raw.githubusercontent.com/Shawarm0/Shawarm0/main/main/assets/csc2033.png" width="100%" alt="CSC2033-Team-Project"/>
+    <img src="https://raw.githubusercontent.com/Shawarm0/Shawarm0/main/main/assets/csc2033.gif" height="280" alt="CSC2033-Team-Project"/>
   </a>
   <h3><a href="https://github.com/Shawarm0/CSC2033-Team-Project">CSC2033 Team Project</a></h3>
-  <p>One line on what it does and your role on the team.</p>
-  <p><code>Python</code> <code>Flask</code></p>
+  <p>Location-based social app — drop pins on a map, post to your city, comment on what's nearby.</p>
+  <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Google Maps</code></p>
 </td>
 </tr>
 </table>
