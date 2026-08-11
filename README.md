@@ -19,7 +19,7 @@
 
 <!-- ✏️ Rewrite these four lines in your own voice. Keep it to 4–6 lines — this is the part people actually read. -->
 
-I'm **Shawarm0** — a developer who bounces between low-level systems work and shipping products people can actually click on. I like understanding how low-level systems can be built up to create full products and how different layers of abstraction affect development mentality.
+I'm **Shawarm0** — a developer who bounces between low-level systems work and shipping products people can actually use. I like understanding how low-level systems can be built up to create full products and how different layers of abstraction affect development mentality.
 
 - 🔭 **Currently building** — A real-time physics engine in C++/OpenGL
 - 🌱 **Currently learning** — OpenGL and console emulation
