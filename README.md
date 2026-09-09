@@ -85,7 +85,7 @@ I'm **Shawarm0** — a developer who bounces between low-level systems work and 
 <tr>
   <td width="50%" align="center">
   <a href="https://github.com/Shawarm0/em-chip8">
-    <img src="https://raw.githubusercontent.com/Shawarm0/Shawarm0/main/main/assets/physics-engine.gif" width="100%" alt="physics-engine"/>
+    <img src="https://raw.githubusercontent.com/Shawarm0/Shawarm0/main/main/assets/chip8.gif" width="100%" alt="physics-engine"/>
   </a>
   <h3><a href="https://github.com/Shawarm0/em-chip8">Chip8 Emulator</a></h3>
   <p>A CHIP-8 emulator written from scratch, implementing the virtual machine, opcode decoding, memory, display, timers, and keyboard input.</p> 
