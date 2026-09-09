@@ -128,4 +128,14 @@ I'm **Shawarm0** — a developer who bounces between low-level systems work and 
   <a href="https://lovinsharma.me"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
 </p>
 
+---
+
+## 📄 CV
+
+<p align="center">
+  <a href="https://github.com/Shawarm0/Shawarm0/blob/main/main/assets/Lovin_Sharma_CV_sanitized.pdf">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=90&section=header&text=View%20my%20CV&fontSize=30&fontColor=ffffff&fontAlignY=52&desc=PDF%20%E2%80%A2%20opens%20in%20a%20new%20page&descSize=13&descAlignY=76" width="100%" alt="View my CV (PDF)"/>
+  </a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" width="100%" alt="footer"/>
